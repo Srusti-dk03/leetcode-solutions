@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
