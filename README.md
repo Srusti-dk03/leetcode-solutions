@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0577-employee-bonus) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
