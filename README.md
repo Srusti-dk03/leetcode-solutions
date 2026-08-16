@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Srusti-dk03/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
